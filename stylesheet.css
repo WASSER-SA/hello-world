@@ -1,0 +1,65 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    width: 100%;
+    background-color:khaki;
+    color:whitesmoke;
+    height: auto;
+    
+}
+.header-logo{
+    font-size: 40px;
+    padding: 20px 40px;
+}
+.header-list ul{
+    display: flex;
+    
+}
+.header-list li{
+    padding: 20px 20px;
+    list-style: none;
+}
+
+main{
+  font-size:normal;
+}
+
+.copy-container{
+    margin-top: 100px;
+}
+.copy-sub{
+    font-size: 20px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+.contents-item{
+    display: flex;
+    margin-right: 30px;
+}
+.item-list{
+    margin-right: 20px;
+}
+.item-list p{
+    font-size: 10px;
+}
+
+.contact-container{
+    margin-top: 100px;
+}
+input,textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid lightslategray;
+}
+.contact-submit{
+    background-color: lightslategrey;
+    color: mintcream;
+}
+
+footer{
+    background-color:burlywood;
+}
